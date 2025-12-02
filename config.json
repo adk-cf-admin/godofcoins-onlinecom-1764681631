@@ -1,0 +1,201 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#091A37",
+            "lang-select-color": "#222829",
+            "bg-light": "#091A37",
+            "welcome-bonus-bg": "#091A37",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#002663",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#014DC3",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#014DC3",
+            "yellow": "#2DBA2A",
+            "yellow-button": "#014DC3",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#091A37",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#091A37",
+            "faq-label": "#091A37",
+            "bg-footer": "#091A37",
+            "copyright": "#e7e7d5",
+            "starColor": "#2DBA2A",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "God of Coins",
+            "title": "God of Coins Casino | Top Slots, Bonuses & Fast Payouts",
+            "description": "Discover the excitement at God of Coins Casino! Enjoy top slots, generous bonuses, secure payments, and instant withdrawals. Play online with confidence and fun.\n",
+            "canonical": "godofcoins-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/825",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "godofcoins-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/826",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/827"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/828",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "God of Coins Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "God of Coins Casino \u2014 Thrill, Bonuses & Secure Gaming",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/829",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/830",
+            "mobileImageSizeModifier": -5,
+            "mobileImageYModifier": 2,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "High RTP for maximum winning potential",
+                "Progressive jackpot with big prizes",
+                "Stunning graphics and Egyptian theme",
+                "Mobile-friendly version for on-the-go play",
+                "Generous bonuses and free spins for players",
+                "Simple and intuitive slot mechanics",
+                "Multipliers to boost payouts significantly"
+            ],
+            "advantagesAfterText": "God of Coins combines a high return-to-player rate with engaging gameplay. Players enjoy bonus rounds, jackpots, and premium visuals, making it appealing for both beginners and experienced gamers.\n",
+            "knowMore": "Know more",
+            "appTitle": "God of Coins App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/831",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "God of Coins App",
+            "mobileGooglePlayImageTitle": "God of Coins App",
+            "mobileIosImageTitle": "God of Coins App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About God of Coins",
+                "description1": "",
+                "items": [
+                    "Maximum win up to \u20ac20,000",
+                    "Bonuses with multipliers up to x1000",
+                    "Free spins with big prizes"
+                ],
+                "description2": "God of Coins is an exciting online casino with a vibrant design and user-friendly interface. It offers a wide selection of games for different types of players. The platform ensures secure transactions and strong data protection. Players can enjoy bonuses and promotions that increase winning chances. The system supports mobile devices for gaming anywhere. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/832",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Simple navigation makes the process comfortable and easy. The casino focuses on fairness and transparency. Various deposit and withdrawal methods are available. Customer support is responsive and professional. God of Coins combines quality, reliability, and thrilling entertainment.\n"
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "God of Coins \u2014 A World of Thrill and Opportunity",
+                "description": "<p>\nGod of Coins is a modern online casino designed for those who value quality, security, and an engaging gaming experience. The platform combines the excitement of gambling with a user-friendly interface, allowing players to enjoy the game without unnecessary complications.\n\n<\/p>\n<br>\n<p>\nThe casino offers a wide variety of games tailored to different tastes and preferences. Players can explore slots with stunning graphics, exciting bonuses, and dynamic gameplay. Each game is developed using advanced technology to ensure smooth performance across all devices.\n\n<\/p>\n<br>\n<p>\nSecurity and reliability are top priorities. All transactions are protected, and users\u2019 personal data is kept safe, creating a trustworthy environment for gaming.\n\n<\/p>\n<br>\n<p>\nGod of Coins also impresses with generous bonuses and promotions that boost winning chances. Loyalty programs and special offers make the experience even more rewarding and enjoyable.\n\n<\/p>\n<br>\n<p>\nOverall, this casino combines style, functionality, and thrill, offering players a unique opportunity to test their luck in a secure and entertaining atmosphere.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nConvenient Payment Methods and Supported Currencies at God of Coins\n<\/h3>\n\n<p>\nGod of Coins provides players with a wide range of payment options to make deposits and withdrawals as smooth as possible. The platform supports popular bank cards, including Visa and MasterCard, as well as e-wallets that guarantee fast and secure transactions. In addition, modern payment solutions such as cryptocurrencies are available, allowing players to use innovative ways to manage their funds.\n\n<\/p>\n<br>\n<p>\nSecurity is a top priority for all operations. Every transaction is processed through secure channels, and user data is encrypted to ensure safety. This means that payments are not only convenient but also highly protected.\n\n<\/p>\n<br>\n<p>\nThe casino works with multiple currencies to meet the needs of players worldwide. Supported currencies include euros, dollars, and other major international units. This flexibility makes gaming accessible to a global audience and helps avoid unnecessary conversion fees.\n\n<\/p>\n<br>\n<p>\nGod of Coins aims to deliver maximum convenience by offering fast payouts and transparent conditions. With a variety of payment methods and multi-currency support, every player can choose the most suitable option for an enjoyable gaming experience.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRules for Visiting God of Coins Casino\n<\/h3>\n\n<p>\nVisiting God of Coins casino requires compliance with specific rules that ensure comfort and security for all players. The primary condition is meeting the legal age requirement, which guarantees adherence to regulations. Players must provide accurate information during registration to avoid issues with access and withdrawals.\n\n<\/p>\n<br>\n<p>\nThe casino strictly prohibits the use of third-party software or any fraudulent methods. Creating multiple accounts by one user is also forbidden. All actions should follow fair play principles to maintain trust and transparency.\n\n<\/p>\n<br>\n<p>\nThe platform reserves the right to verify a player\u2019s identity to prevent violations and ensure safety. Any attempt at cheating or breaking the rules may result in account suspension.\n\n<\/p>\n<br>\n<p>\nAdditionally, responsible gaming practices are essential. The casino recommends setting limits on bets and playtime to avoid negative consequences of gambling.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Conditions\n<\/h4>\n            <ul>\n            <li>\u2022 \nPlayer must be of legal age\n\n<\/li>\n            <li>\u2022 \nRegistration with accurate details\n\n<\/li>\n            <li>\u2022 \nCompliance with responsible gaming rules\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Prohibitions\n<\/h4>\n        <ul>\n            <li>\u2022 \nUse of fraudulent schemes or bots\n\n<\/li>\n\n       <li>\u2022 \nCreation of multiple accounts\n\n<\/li>\n            <li>\u2022 \nViolation of fair play principles\n\n\n\n<\/li>\n  \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicense and Data Protection at God of Coins\n<\/h3>\n\n<p>\nGod of Coins operates under an official license, ensuring compliance with international standards and regulations in the gaming industry. This license guarantees fairness, transparency, and security in all processes, including gameplay and financial transactions.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to user data protection. All personal details and payment information are processed through advanced encryption systems that prevent unauthorized access. SSL protocols and other cutting-edge technologies are used to maintain a high level of security.\n\n<\/p>\n<br>\n<p>\nThe casino\u2019s privacy policy is designed to safeguard players\u2019 personal information. Data is never shared with third parties without user consent, and all operations comply with GDPR and other global standards.\n\n<\/p>\n<br>\n<p>\nIn this way, God of Coins provides a secure and trustworthy environment where every player can feel confident about data protection and fair gaming practices.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n Customer Support at God of Coins \u2014 Fast and Reliable\n<\/h3>\n\n<p>\nGod of Coins customer support is designed to provide players with maximum comfort and quick solutions to any issues. The team works around the clock to assist with registration, payments, bonuses, and technical problems.\n\n<\/p>\n<br>\n<p>\nSeveral convenient communication channels are available: live chat, email, and phone. Live chat offers almost instant responses, while email and phone are ideal for more detailed inquiries.\n\n<\/p>\n<br>\n<p>\nResponse time depends on the chosen channel, but in most cases, it is minimal, especially when using chat. Service quality is high: representatives are polite, knowledgeable, and ready to provide clear solutions.\n\n<\/p>\n<br>\n<p>\nAnother advantage is multilingual support, making communication easy for players from different countries and eliminating misunderstandings.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Communication channels\n<\/h4>\n            <ul>\n            <li>\u2022 \nLive chat \u2014 instant real-time responses\n\n<\/li>\n            <li>\u2022 \nEmail \u2014 for detailed inquiries and documents\n\n<\/li>\n            <li>\u2022 \nPhone \u2014 quick assistance and consultations\n\n\n<\/li>\n  \n  \n        <\/ul><br>\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Service features\n<\/h4>\n        <ul>\n            <li>\u2022 \n24\/7 availability\n\n<\/li>\n            <li>\u2022 \nFast response times\n\n<\/li>\n       <li>\u2022 \nSupport in multiple languages\n\n\n<\/li>\n    \n  \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at God of Coins",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nGod of Coins Loyalty Program \u2014 Maximum Benefits for Players\n<\/h3>\n\n<p>\nThe loyalty program at God of Coins is designed to reward active players and make the gaming experience even more profitable. It offers exclusive bonuses, extra privileges, and access to special promotions. Participation in the program unlocks increased cashback, free spins, and personalized offers.\n\n<\/p>\n<br>\n<p>\nRegistration is simple and available to every verified user. Once the account is activated, the player automatically becomes a member and starts earning points for bets. The more active you are, the higher your level and the greater the benefits.\n\n<\/p>\n<br>\n<p>\nThe tier system is structured to motivate players. Each new level provides access to bigger bonuses, higher limits, and dedicated support. The program also includes monthly promotions and special offers for VIP members.\n\n<\/p>\n<br>\n<p>\nThe bonuses are impressive: from welcome free spins to cashback on losses and exclusive deposit rewards. The higher the status, the greater the cashback percentage and bonus size.\n\n<\/p>\n<br>\n<p>\nThis is the perfect way for regular players to gain extra advantages and boost their winning potential.\n\n<\/p>\n<br>\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Registration requirements\n<\/h4>\n            <ul>\n            <li>\u2022 \nVerified casino account\n\n<\/li>\n            <li>\u2022 \nIdentity confirmation (KYC)\n\n<\/li>\n            <li>\u2022 \nAgreement with program rules\n<\/li>\n\n  \n        <\/ul><br>\n\n <h4 style = \"font-weight: bold; font-size: 24px;\">Levels and how to reach them\n<\/h4>\n            <ul>\n            <li>\u2022 \nBasic: immediately after registration\n\n<\/li>\n            <li>\u2022 \nSilver: accumulate a set number of betting points\n\n<\/li>\n            <li>\u2022 \nGold: high activity and regular deposits\n\n<\/li>\n           <li>\u2022 \nVIP: invitation-only for top players\n\n\n<\/li>\n       \n\n  \n        <\/ul><br>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Available bonuses\n<\/h4>\n        <ul>\n            <li>\u2022 \nWelcome bonus up to 100% on first deposit\n\n<\/li>\n            <li>\u2022 \nWeekly cashback up to 10%\n\n<\/li>\n       <li>\u2022 \nFree spins on popular slots\n\n<\/li>\n            <li>\u2022 \nExclusive promotions for VIP tier\n\n<\/li>\n              <li>\u2022 \nPersonalized offers and increased limits\n\n\n<\/li>\n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses and Special Offers at God of Coins \u2014 More Chances to Win\n<\/h3>\n\n<p>\nGod of Coins offers a wide range of bonuses and special promotions that make gaming more exciting and rewarding. Beyond the loyalty program, the casino regularly runs campaigns, seasonal events, and exclusive offers for both new and returning players. These promotions are designed to boost winning chances and create a unique entertainment experience.\n\n<\/p>\n<br>\n<p>\nPlayers can take advantage of welcome bonuses, weekly deals, and themed events tied to holidays or seasons. Additionally, special offers are available for popular games, including free spins and enhanced multipliers.\n\n<\/p>\n<br>\n<p>\nSeasonal events are particularly engaging, featuring tournaments with large prize pools, raffles, and exclusive bonuses for participants. The casino also provides jackpots and extra winnings through special campaigns.\n\n<\/p>\n<br>\n<p>\nAll bonuses come with clear terms, and their size depends on player activity and selected games. This is a great opportunity to increase your balance and enjoy new gaming formats.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain bonuses and offers\n<\/h4>\n\n <ul>\n            <li>\u2022 \nWelcome bonus: up to 100% on first deposit + 50 free spins on popular slots.\n\n<\/li>\n            <li>\u2022 \nWeekly promotions: cashback up to 10% on losses and reload bonuses.\n\n<\/li>\n            <li>\u2022 \nTournaments: prize pools up to \u20ac10,000 for active participants.\n\n<\/li>\n            <li>\u2022 \nSeasonal events: holiday campaigns with free spins and doubled bets.\n\n<\/li>\n\t    <li>\u2022 \nSpecial game offers: enhanced multipliers and exclusive bonuses on top slots.\n\n<\/li>\n\t    <li>\u2022 \nJackpots: progressive wins reaching tens of thousands of euros.\n\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at God of Coins Casino \u2014 Top Entertainment for Players\n<\/h3>\n\n<p>\nGod of Coins Casino offers a vast selection of games designed to satisfy every player\u2019s taste. The platform features classic slots, modern video slots with immersive storylines, and jackpot games with massive prizes. Partnering with leading providers like NetEnt, Pragmatic Play, Playson, BGaming, and Betsoft ensures premium graphics and fair gameplay.\n\n<\/p>\n<br>\n<p>\nPlayers can enjoy Egyptian-themed slots, adventure-packed titles, and simple classic machines for those who prefer minimalism. Additionally, the casino offers table games such as roulette, blackjack, and poker, along with a live casino featuring real dealers.\n\n<\/p>\n<br>\n<p>\nExclusive slots and games with innovative mechanics like Megaways and Hold & Win are also available. For those who love instant thrills, \u201cBuy Bonus\u201d options allow players to trigger bonus rounds immediately.\n\n<\/p>\n<br>\n<p>\nEach game comes with unique features: free spins, multipliers, bonus rounds, and progressive jackpots that can lead to huge wins. With such variety, God of Coins is the perfect destination for exciting entertainment.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPopular games at God of Coins Casino\n<\/h4>\n\n <ul>\n            <li>\u2022 \nRoyal Joker: Hold and Win (Playson) \u2014 classic slot with Hold & Win feature and jackpots.\n\n<\/li>\n            <li>\u2022 \nCash of Cleopatra (Playson) \u2014 Egyptian theme, bonus rounds, and free spins.\n\n<\/li>\n            <li>\u2022 \nWild Cash x9990 (BGaming) \u2014 slot with multipliers up to x9990 and big payouts.\n\n<\/li>\n            <li>\u2022 \nBook of Egypt (Playson) \u2014 legendary \u201cBook\u201d series with free spins and expanding symbols.\n\n<\/li>\n\t    <li>\u2022 \nPlinko (BGaming) \u2014 unique game offering instant wins and simple rules.\n\n<\/li>\n\t    <li>\u2022 \nCrazy Time (Evolution) \u2014 popular live game with bonus wheels and interactive features.\n\n<\/li>\n\t    <li>\u2022 \nLightning Roulette (Evolution) \u2014 roulette with multipliers up to x500 for high-risk players.\n\n<\/li>\n\t    <li>\u2022 \nChicken Royal (God of Coins Originals) \u2014 exclusive slot with original mechanics and bonuses.\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at God of Coins Casino\n<\/h3>\n\n<p> \nGod of Coins Casino offers flexible betting options to suit both beginners and experienced players. Minimum bets allow you to start with a small budget, while maximum bets provide opportunities for big wins. All games are designed for convenience and transparency, making it easy to choose the right stake range.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#014DC3; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.20 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac20<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac500<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> \u20ac2,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Live Casino<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1,000<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at God of Coins Casino \u2014 A World of Thrill and Show\n<\/h3>\n\n<p>\nGod of Coins Casino is not just a place for gambling; it\u2019s a hub of vibrant events and entertainment. The venue regularly hosts special activities that create a festive atmosphere and offer guests unforgettable experiences. The entertainment program includes themed nights, live shows, tournaments, and seasonal promotions that make every visit unique.\n\n<\/p>\n<br>\n<p>\nLive performances are a highlight of the casino experience. Guests can enjoy musical concerts, dance shows, and theatrical productions held in specially designed halls. These events combine luxury with cultural enjoyment, adding an extra layer of excitement to gaming.\n\n<\/p>\n<br>\n<p>\nFor competitive players, poker tournaments and slot competitions are organized with impressive prize pools. Participation offers not only the chance to win big but also to gain recognition among fellow players. Additionally, raffles and lotteries feature valuable prizes such as gadgets, travel packages, and bonus funds.\n\n<\/p>\n<br>\n<p>\nSeasonal events are another major attraction. During holidays, the casino offers themed promotions, exclusive bonuses, and festive shows. For example, New Year\u2019s celebrations include live music, gourmet buffets, and jackpot draws.\n\n<\/p>\n<br>\n<p>\nGod of Coins ensures that every visit is special, blending thrilling games with spectacular shows and unique events to create an unforgettable experience.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain entertainment and events\n<\/h4>\n\n <ul>\n            <li>\u2022 \nThemed nights: retro parties, Egyptian nights, VIP evenings.\n\n<\/li>\n            <li>\u2022 \nLive shows: musical concerts, dance performances, theatrical productions.\n\n<\/li>\n            <li>\u2022 \nTournaments: poker championships and slot competitions with prizes up to \u20ac10,000.\n\n<\/li>\n            <li>\u2022 \nRaffles and lotteries: valuable prizes, bonus funds, gadgets.\n\n<\/li>\n\t    <li>\u2022 \nSeasonal promotions: holiday events with exclusive bonuses and gourmet buffets.\n\n<\/li>\n\t    <li>\u2022 \nInteractive games: quizzes and contests with instant rewards.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawal Methods and Payout Speed at God of Coins\n<\/h3>\n\n<p>\nGod of Coins Casino offers convenient and secure withdrawal methods to ensure players receive their winnings quickly. All transactions are processed through secure channels, and the withdrawal process is fully transparent. Available methods include bank cards, e-wallets, and cryptocurrencies, allowing users to choose the most suitable option.\n\n<\/p>\n<br>\n<p>\nProcessing times depend on the selected method. E-wallets provide the fastest transfers, usually within a few hours. Bank cards take longer, typically 1 to 3 business days, while cryptocurrency transactions are almost instant after confirmation.\n\n<\/p>\n<br>\n<p>\nWithdrawal limits also vary. The minimum amount is usually \u20ac20, while the maximum can reach \u20ac10,000 per transaction, depending on player status and payment method. VIP players enjoy higher limits and priority processing.\n\n<\/p>\n<br>\n<p>\nGod of Coins guarantees the security of all operations through SSL encryption and a strict privacy policy, ensuring reliable and fast payouts for every user.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal methods\n<\/h4>\n\n <ul>\n            <li>\u2022 \nBank cards (Visa, MasterCard): processing time 1\u20133 days.\n\n<\/li>\n            <li>\u2022 \nE-wallets (Skrill, Neteller): processed within 24 hours.\n\n<\/li>\n            <li>\u2022 \nCryptocurrencies (Bitcoin, Ethereum): instant transfers after confirmation.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProcessing times\n<\/h4>\n\n <ul>\n            <li>\u2022 \nE-wallets \u2014 up to 24 hours.\n\n<\/li>\n            <li>\u2022 \nBank cards \u2014 1\u20133 business days.\n\n<\/li>\n            <li>\u2022 \nCryptocurrencies \u2014 almost instant.\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal limits\n<\/h4>\n\n <ul>\n            <li>\u2022 \nMinimum amount \u2014 \u20ac20.\n\n<\/li>\n            <li>\u2022 \nMaximum amount \u2014 up to \u20ac10,000 per transaction.\n\n<\/li>\n            <li>\u2022 \nVIP players \u2014 higher limits and priority processing.\n\n\n<\/li>\n\n        <\/ul><br>\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Is verification required to play?",
+                    "answer": "Yes, identity verification (KYC) is needed for withdrawals.\n\n\n"
+                },
+                {
+                    "title": "Is there a demo mode for games?",
+                    "answer": "Yes, most slots are available in free demo mode.\n\n\n"
+                },
+                {
+                    "title": "Can I play on mobile devices?",
+                    "answer": "Yes, the site is fully optimized for smartphones and tablets.\n\n\n"
+                },
+                {
+                    "title": "Can I cancel a withdrawal request?",
+                    "answer": "Yes, if the request hasn\u2019t been processed yet, cancellation is possible via support.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/833",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "God of Coins"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}

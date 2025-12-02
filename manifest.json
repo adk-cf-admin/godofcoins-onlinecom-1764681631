@@ -1,0 +1,19 @@
+{
+  "name": "God of Coins",
+  "short_name": "God of Coins",
+  "theme_color": "",
+  "background_color": "#091A37",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1764678116-favicon.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
